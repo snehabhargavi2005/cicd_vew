@@ -9,6 +9,7 @@ function App() {
   return (
     <>
     <h1>welcome to cicid devops class</h1>
+    <h2>This class is very intresting</h2>
       </>
   )
 }
